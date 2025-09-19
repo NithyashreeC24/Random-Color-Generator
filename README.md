@@ -8,5 +8,5 @@ It demonstrates the use of arrays, random number generation, and DOM manipulatio
 - A predefined array of background colors.
 - Each click picks a **random color** from the array.
 
-##**📸 Demo video**
+**📸 Demo video**
 [click here for demo video](random-color-generator.gif)
